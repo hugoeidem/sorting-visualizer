@@ -5,6 +5,8 @@ This project features real-time **sound** feedback using the `pyo` audio library
 
 > ⚠️ Requires Python **3.11.9** due to `pyo` compatibility issues with newer versions.
 
+GIF of running program, Heap Sort and then Quick Sort. (only 40fps, looks better locally)
+
 ![Demo of Heap Sort and Quick Sort](visualizer.gif)
 
 ## 🔧 Getting Started
