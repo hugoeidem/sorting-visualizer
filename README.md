@@ -7,8 +7,6 @@ This project features real-time **sound** feedback using the `pyo` audio library
 
 ![Demo of Heap Sort and Quick Sort](visualizer.gif)
 
----
-
 ## 🔧 Getting Started
 
 ### 🐍 Python Version
@@ -19,10 +17,10 @@ Download it here: [Python 3.11.9](https://www.python.org/downloads/release/pytho
 ### Setup Instructions
 
 1. Clone the repo:
- ```bash
- git clone https://github.com/hugoeidem/sorting-visualizer.git
- cd sorting-visualizer
- ```
+```bash
+git clone https://github.com/hugoeidem/sorting-visualizer.git
+cd sorting-visualizer
+```
 
 2. Activate the virtual enviroment and run it (for windows):
 ```bash
