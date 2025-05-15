@@ -24,10 +24,31 @@ Download it here: [Python 3.11.9](https://www.python.org/downloads/release/pytho
  cd sorting-visualizer
  ```
 
-2. Activate the virtual enviroment and run it:
+2. Activate the virtual enviroment and run it (for windows):
 ```bash
 py -3.11 -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 python sortingVisualizer.py
 ```
+
+## 🎹 Controls & Features
+
+- Visualize different sorting algorithms with **color and sound** feedback.
+- Press keys to switch algorithms:
+  - `b`: Bubble Sort
+  - `p`: Improved Insertion Sort
+  - `i`: Insertion Sort
+  - `q`: Quick Sort
+  - `m`: Merge Sort
+  - `r`: Radix Sort
+  - `g`: Gnome Sort
+  - `h`: Heap Sort
+  - `o`: Bogo Sort (you've been warned 😬)
+
+Other controls:
+- `SPACE`: Pause/resume sound
+- `ENTER`: Reset to original order
+- `N`: New random list
+- `L / J`: Adjust speed
+- `RIGHT ARROW`: Skip one frame
